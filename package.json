@@ -1,6 +1,6 @@
-{
+
   "name": "nexus-ai",
-  "version": "5.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,3 +11,4 @@
     "react": "18.0.0",
     "react-dom": "18.0.0"
   }
+}
